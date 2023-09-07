@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrey
-- 👀 I’m interested in Python, machine learning
+- 👀 I’m interested in Python backend and machine learning
 - 🌱 I’m currently learning Python
 
 <!---
