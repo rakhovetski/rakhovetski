@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrey
-- 👀 I’m interested in Python backend and machine learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Java and Python backend
+- 🌱 I’m currently learning Java
 
 <!---
 rakhovetski/rakhovetski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
